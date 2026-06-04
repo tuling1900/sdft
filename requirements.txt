@@ -1,0 +1,16 @@
+torch
+transformers
+datasets
+accelerate
+peft
+trl
+bitsandbytes
+evaluate
+rouge-score
+sacrebleu
+sentence-transformers
+pandas
+numpy
+tqdm
+matplotlib
+scikit-learn

@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local model checkpoints and weights
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.gguf
+
+# Training and evaluation artifacts
+outputs/
+logs/
+results/
+
+# Generated or downloaded data
+data/raw/
+data/processed/
+data/distilled/
+data/mix_ratio/
+
+# Local machine files
+.DS_Store
+.idea/
+.vscode/
